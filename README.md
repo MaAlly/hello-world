@@ -1,2 +1,2 @@
 # hello-world
-saying hello to the world
+print('saying hello to the world')
